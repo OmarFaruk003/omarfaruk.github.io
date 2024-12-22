@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, C
 
 ## Education
 - B.Sc., Data Science | United United International University (2027)								       		
